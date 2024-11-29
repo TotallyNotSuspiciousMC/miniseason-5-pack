@@ -1,0 +1,13 @@
+name = "Miniseason5"
+author = "TheDeathlyCow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c421385d464f790a99deb566d89720a9d7238e4412fe8a5b45653f4bf9670c2e"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.1"

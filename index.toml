@@ -1,0 +1,21 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+metafile = true
+
+[[files]]
+file = "mods/scorchful.pw.toml"
+hash = "5ccd1554618ebf3b19bfd8bfcf3ba07fdc9b4889057a02fd8ac69540742512b5"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "280249ea67b5e7d92f0edf4641ca14c800c0922ba474533867588fe5fb5691ce"
+metafile = true
