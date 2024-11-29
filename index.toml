@@ -71,6 +71,11 @@ hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "f90d8861943cf1f0bede4e9db3b05fe399a21a945ac2df1c46960065be0d19f6"
 metafile = true
@@ -133,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
-metafile = true
-
-[[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
 metafile = true
 
 [[files]]
