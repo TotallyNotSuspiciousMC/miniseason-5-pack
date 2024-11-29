@@ -1,8 +1,33 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "5fbe5e7b999fb2038b27d34428996ebfb0c8fd76431aca40767034527f8c046a"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "caf89a9a287cd3d466d6b7632b8368afc8b90aee0690709fad3f4f4274921b58"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "e806de71f80ccfa6e9cbcc73e9192eeb5efad691d620dc42bab52454ffd92d39"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
 metafile = true
 
 [[files]]
@@ -13,6 +38,16 @@ metafile = true
 [[files]]
 file = "mods/compass-ribbon.pw.toml"
 hash = "6dcbbcfff52bc5badf59b122fd814a94a3a2c200da4413476f3fb144b8a5981c"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "8b7ec733705289b719f7be6f18d66d4f53e21e5c330434bc760fb696f5471dff"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
 metafile = true
 
 [[files]]
@@ -36,8 +71,23 @@ hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "f90d8861943cf1f0bede4e9db3b05fe399a21a945ac2df1c46960065be0d19f6"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "95c8305f3e41e8f15f491f87a7be727b1d96e020f6942210f4e2434704f0b602"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "37481fb94ef7cdb7a8ef4ccef57458ab88e83272e31e5db62b619da1fb98b732"
 metafile = true
 
 [[files]]
@@ -61,6 +111,11 @@ hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
 metafile = true
 
 [[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "5218f11b16af605c43edd2a484c3aa68e3fa2f7a826f4f22861c97999bc8b51e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
@@ -71,8 +126,33 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "daecd6a5f53092b68918546c0773592d94f569697a9d827be371d9464f655f18"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "df2c34be35d1b81a9fd5eb2dff177f82e2daa59428ee39525cde5ccd3e06b538"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "8b0213454fcfc093222891f7a2958039046d51297a552b5c1c6e46344d03dc18"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
@@ -83,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "aba83f4f4c5f64840ce7010eaaae788b420f503dbd5175482123ef64481b34d1"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
 metafile = true
 
 [[files]]
@@ -106,8 +191,48 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "8e009ac87710fbd8f5990285d36ab2b4755e932664ca1bcb9cdfac116d6e3b6d"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "3503a5bc45325cb49a27fecd1dcb998f77dc9759dd3b78c6a19447d9573421c4"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "2822f0acbd3077921fcbd3490368372bf99ec3d3e0c78fab9781d1be3a1bf590"
+metafile = true
+
+[[files]]
 file = "mods/thermoo.pw.toml"
 hash = "280249ea67b5e7d92f0edf4641ca14c800c0922ba474533867588fe5fb5691ce"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "068ae3664c4349cc6e41a54ea1288bfcd1876d2fbba145c1213dfece3118665d"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "583bbfb5616668d09386b7b5d7378ad85a6c67f99831e0c3d1586d1dff19f7ae"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "ea8701a5ea5f63e802e5ef6ff23e7b1f3634d3b5936c8a8d085c7bcf6c8287b1"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "f504bc95aa92603331973f49091667244b7cf1a1bcc2ff9f58bcb5e56935bd1b"
 metafile = true
 
 [[files]]
