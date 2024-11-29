@@ -11,6 +11,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/compass-ribbon.pw.toml"
+hash = "6dcbbcfff52bc5badf59b122fd814a94a3a2c200da4413476f3fb144b8a5981c"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
 metafile = true
@@ -41,6 +46,11 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "b1f9f3a6869d30ebcf8ad9d8f6ea52c49db1d98153434f435c832c36d9ceca90"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "ef19c1c85edcb9a19dc784c264497f6191579942b63e6343daaf6c9cdd9a3b78"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "aba83f4f4c5f64840ce7010eaaae788b420f503dbd5175482123ef64481b34d1"
 metafile = true
 
 [[files]]
