@@ -1,12 +1,12 @@
 name = "Miniseason5"
 author = "TheDeathlyCow"
-version = "1.0.0"
+version = "1.0.0-SNAPSHOT"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5f4a594b8670f3e43eb11c58463c04d0eed0f322f1f5e8a18b4eb7d7792fc3b7"
+hash = "0a0b8e8e16657173cf9fdf117ffa05e3c0614c0fa0d1695fc36073d1a5a0cb31"
 
 [versions]
 fabric = "0.16.9"

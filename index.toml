@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "80a100ef34fffa77d589f85107bc40e4059eb292ba4a4df30739827d98832ebc"
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "5fbe5e7b999fb2038b27d34428996ebfb0c8fd76431aca40767034527f8c046a"
 metafile = true
@@ -136,8 +140,18 @@ hash = "daecd6a5f53092b68918546c0773592d94f569697a9d827be371d9464f655f18"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "f07847cfa82a4a22d8b0421e743ddf03971e90478efff85d169fd8ebe4dad2ce"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
 metafile = true
 
 [[files]]
@@ -147,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "8b0213454fcfc093222891f7a2958039046d51297a552b5c1c6e46344d03dc18"
+hash = "d243f733a6f2535a76462992193602588bc9393c73b62e4c05123671b4e558fe"
 metafile = true
 
 [[files]]
@@ -218,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "d726b409ced8649261cf8e57b0c7760f2878a32ee8d9042ac278f0ab319ba38d"
 metafile = true
 
 [[files]]

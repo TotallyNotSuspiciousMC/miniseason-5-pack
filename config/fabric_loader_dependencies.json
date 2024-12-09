@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "nyfsspiders": {
+            "depends": {
+                "minecraft": "1.21.1"
+            }
+        }
+    }
+}
