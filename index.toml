@@ -35,6 +35,11 @@ hash = "caf89a9a287cd3d466d6b7632b8368afc8b90aee0690709fad3f4f4274921b58"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "76c913b157f928a11b7c6f2d010b341fd50dd5032c39bf512eab39b5abfc3170"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "e806de71f80ccfa6e9cbcc73e9192eeb5efad691d620dc42bab52454ffd92d39"
 metafile = true
