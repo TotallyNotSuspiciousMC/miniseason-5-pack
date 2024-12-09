@@ -70,6 +70,16 @@ hash = "8b7ec733705289b719f7be6f18d66d4f53e21e5c330434bc760fb696f5471dff"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims-extensions.pw.toml"
+hash = "f76848d44a8288fc091d64ba81343a473ba121de7060fbb8509050004d2f28f2"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "f37f04192a577eb70673df34e2e73ccef962443f913e38fd6bcb21a0a465f9e5"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
 metafile = true
@@ -157,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "daecd6a5f53092b68918546c0773592d94f569697a9d827be371d9464f655f18"
+metafile = true
+
+[[files]]
+file = "mods/more-armor-trims.pw.toml"
+hash = "eb8a858712f9bd8603cc2bb1cf61172da1414ff7b60eafb645d107f3daf46b5f"
 metafile = true
 
 [[files]]
