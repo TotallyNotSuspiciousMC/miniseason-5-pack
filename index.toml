@@ -5,6 +5,16 @@ file = "config/fabric_loader_dependencies.json"
 hash = "80a100ef34fffa77d589f85107bc40e4059eb292ba4a4df30739827d98832ebc"
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "f0a1bb333ffdb23edde7bc7912e2e489f1986f5107f547afd66d5aa6e4aca985"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5a7a1c4a5c087b66a57edd1067ba0048b3f6edb3fa0fc1449ffaff8d09a1e81b"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "5fbe5e7b999fb2038b27d34428996ebfb0c8fd76431aca40767034527f8c046a"
 metafile = true
@@ -235,6 +245,11 @@ hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
 
 [[files]]
+file = "mods/simple-hats.pw.toml"
+hash = "18e76b47a7aee2d315075514a48802de4b2dc144fdecd06f98abe50442116104"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
@@ -267,11 +282,6 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "068ae3664c4349cc6e41a54ea1288bfcd1876d2fbba145c1213dfece3118665d"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
 metafile = true
 
 [[files]]
