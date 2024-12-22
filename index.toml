@@ -135,6 +135,11 @@ hash = "95c8305f3e41e8f15f491f87a7be727b1d96e020f6942210f4e2434704f0b602"
 metafile = true
 
 [[files]]
+file = "mods/frostiful.pw.toml"
+hash = "ecc0d1b42203f904efa94c0f6620e9f11e19adcd1b1b2b783c1781efd08825dc"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "37481fb94ef7cdb7a8ef4ccef57458ab88e83272e31e5db62b619da1fb98b732"
 metafile = true
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorchful.pw.toml"
-hash = "5ccd1554618ebf3b19bfd8bfcf3ba07fdc9b4889057a02fd8ac69540742512b5"
+hash = "ac5465e986fcc9103e6b636a63a345f6592de64e7f85bb70729deed4354a87b2"
 metafile = true
 
 [[files]]
@@ -276,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "280249ea67b5e7d92f0edf4641ca14c800c0922ba474533867588fe5fb5691ce"
+hash = "dfcb812b7a748fa7af10509a5fbe3390929c04bcfb877b988d766e78b03bd233"
 metafile = true
 
 [[files]]
