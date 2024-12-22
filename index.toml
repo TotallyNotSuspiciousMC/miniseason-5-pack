@@ -55,6 +55,11 @@ hash = "e806de71f80ccfa6e9cbcc73e9192eeb5efad691d620dc42bab52454ffd92d39"
 metafile = true
 
 [[files]]
+file = "mods/brewery.pw.toml"
+hash = "3a16ddcee63aaece1c7369a82e7235dc44cccbf14c16758db949866abdcf8db6"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
 metafile = true
@@ -262,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "aba83f4f4c5f64840ce7010eaaae788b420f503dbd5175482123ef64481b34d1"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "ae088bbe06df7bdebea9b4fd523879b1fb49a26baef9ef9ddbb4749f43df7b5f"
 metafile = true
 
 [[files]]
