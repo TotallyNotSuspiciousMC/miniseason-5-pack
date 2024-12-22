@@ -215,6 +215,11 @@ hash = "f07847cfa82a4a22d8b0421e743ddf03971e90478efff85d169fd8ebe4dad2ce"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "193c03548df0d504fd9884ac47a3492bdf3561d49ad80717a0eba926e38ae8db"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
