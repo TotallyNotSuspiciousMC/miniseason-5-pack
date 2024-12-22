@@ -90,6 +90,11 @@ hash = "d2d85facd64ed37a2c487045016576c07570990a00ed590fb77af4919aed8416"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims-extensions.pw.toml"
 hash = "f76848d44a8288fc091d64ba81343a473ba121de7060fbb8509050004d2f28f2"
 metafile = true
@@ -131,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f90d8861943cf1f0bede4e9db3b05fe399a21a945ac2df1c46960065be0d19f6"
+hash = "df50b3a790c405aeb189190915110e6b8bac3fa67ac7a5a648318fcad110f22e"
 metafile = true
 
 [[files]]
@@ -220,6 +225,11 @@ hash = "2e2a377bac55e1707df3f9b1707c0c07eb181df4c7ceb841b1a796b323f8a05b"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "fc53244663a338ed95f20a41fdf2b037228e12e03c2e37ef19c0feb66576c7f0"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "df2c34be35d1b81a9fd5eb2dff177f82e2daa59428ee39525cde5ccd3e06b538"
 metafile = true
@@ -232,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+metafile = true
+
+[[files]]
+file = "mods/pineapple-delight.pw.toml"
+hash = "66f126bccd137b1708219f95b07c153296039b012e134f9b380dd6052938ce46"
 metafile = true
 
 [[files]]
@@ -307,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "068ae3664c4349cc6e41a54ea1288bfcd1876d2fbba145c1213dfece3118665d"
+metafile = true
+
+[[files]]
+file = "mods/ubes-delight.pw.toml"
+hash = "53cf25a46035c6d48a7088da7b7f8f25a8be55fb2fa8846b55b0e62af9c497ee"
 metafile = true
 
 [[files]]
