@@ -80,6 +80,16 @@ hash = "8b7ec733705289b719f7be6f18d66d4f53e21e5c330434bc760fb696f5471dff"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "fd0edad55fa26dae2115cb1af6a1f8ae44e5d71f53bcc2fcd2d8fc026818108b"
+metafile = true
+
+[[files]]
+file = "mods/duckling.pw.toml"
+hash = "d2d85facd64ed37a2c487045016576c07570990a00ed590fb77af4919aed8416"
+metafile = true
+
+[[files]]
 file = "mods/elytra-trims-extensions.pw.toml"
 hash = "f76848d44a8288fc091d64ba81343a473ba121de7060fbb8509050004d2f28f2"
 metafile = true
@@ -165,6 +175,11 @@ hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
 metafile = true
 
 [[files]]
+file = "mods/living-things.pw.toml"
+hash = "25640edf9b1f96af92d81ecd07f67744f3e805894b4328c2c31ca0b48b5a2c06"
+metafile = true
+
+[[files]]
 file = "mods/macaws-holidays.pw.toml"
 hash = "5218f11b16af605c43edd2a484c3aa68e3fa2f7a826f4f22861c97999bc8b51e"
 metafile = true
@@ -232,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "55777d35953bf2a51f85723f04c2a17ae66db8ebcce6ca615c3a64a3e87ccd1b"
 metafile = true
 
 [[files]]
