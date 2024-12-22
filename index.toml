@@ -180,6 +180,21 @@ hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "17f2b0bb963e90e7e59f9356c81fe4a5857fcbad812cbab6b0eb39400ba428f1"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
 metafile = true
@@ -227,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
 metafile = true
 
 [[files]]
@@ -280,6 +300,11 @@ hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "55777d35953bf2a51f85723f04c2a17ae66db8ebcce6ca615c3a64a3e87ccd1b"
 metafile = true
@@ -302,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "18e76b47a7aee2d315075514a48802de4b2dc144fdecd06f98abe50442116104"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
 
 [[files]]
