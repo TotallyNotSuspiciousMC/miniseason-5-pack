@@ -64,6 +64,11 @@ hash = "c36c3ef1bf763c568e5caba8f4db7f1490db9c85ed561e226cab8b2327cf0284"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "44b602d6d9664958e0fce3fdabfd47b7def3a2fd5586b5e2417f7a5f9a2fc276"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "4e7780cd41812017aa676032bb8b6d87ccca07ed3a23c19e5795f2c2cee2b057"
 metafile = true
@@ -101,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
-metafile = true
-
-[[files]]
-file = "mods/corgilib.pw.toml"
-hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
 metafile = true
 
 [[files]]
@@ -286,16 +286,6 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "fc53244663a338ed95f20a41fdf2b037228e12e03c2e37ef19c0feb66576c7f0"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "df2c34be35d1b81a9fd5eb2dff177f82e2daa59428ee39525cde5ccd3e06b538"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "0c1eac52ad961af119ff32b7ae07a651978f18283fda9268aaaced5043b0a4ad"
 metafile = true
 
 [[files]]
