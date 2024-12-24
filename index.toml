@@ -5,6 +5,90 @@ file = "config/fabric_loader_dependencies.json"
 hash = "80a100ef34fffa77d589f85107bc40e4059eb292ba4a4df30739827d98832ebc"
 
 [[files]]
+file = "config/livingthings/ancient_blaze.json"
+hash = "6ebb3daf5ca152c5dba141349dcd8b789e3162c74a930606d615cf8111f4cc58"
+
+[[files]]
+file = "config/livingthings/baby_ender_dragon.json"
+hash = "e905e42dccaa13eeeadacc05b2e146ab19a10f326610476b1d96291d5f2bc77b"
+
+[[files]]
+file = "config/livingthings/crab.json"
+hash = "c3be0e5b16282b6d747e668b8b6d6ceca590db2b8308764c0add55ea1a5dc714"
+
+[[files]]
+file = "config/livingthings/elephant.json"
+hash = "d22173e701242832aa95c2e2137a14023805249b1f486b2077f18568e1ab0920"
+
+[[files]]
+file = "config/livingthings/flamingo.json"
+hash = "3b5029fd286de6da8c023fd81c514e83b761b49eb8680fd337346da92afe0b29"
+
+[[files]]
+file = "config/livingthings/giraffe.json"
+hash = "0c8adb2a60355ff49f10609eff4dc73f13019c60d0551f95f766bfdeafe4736b"
+
+[[files]]
+file = "config/livingthings/koala.json"
+hash = "e02f9d83e429a87aae6e8ca5181bdd862c3e15037604a146d92ac8551e608e45"
+
+[[files]]
+file = "config/livingthings/lion.json"
+hash = "930d3bf0837d123e35e6bfb23b933d74668fa3b195ed872024e55f955296f8dc"
+
+[[files]]
+file = "config/livingthings/livingthings.json"
+hash = "b28c313f2632fc458649dfc61d288744f7e07e2ea1f1c22efc9d7cc8c2a505f7"
+
+[[files]]
+file = "config/livingthings/mantaray.json"
+hash = "78063033b576ca9ef7205618f30c5b04952a06e98fe5abea02890a5fa4674aba"
+
+[[files]]
+file = "config/livingthings/monkey.json"
+hash = "8c73e097d071fb62445058a2d2f4124972083bf5af967f00b42c98d7645368bd"
+
+[[files]]
+file = "config/livingthings/nether_knight.json"
+hash = "33cedddff83e98b8e157b60422f5b1b6f3ad1bf4a5f997f2f651dc3a7aa0b21e"
+
+[[files]]
+file = "config/livingthings/ostrich.json"
+hash = "08de093fbeb58c73523139f7e2b7e7b86f9d2811be13d6ac5674efb6ae3449d3"
+
+[[files]]
+file = "config/livingthings/owl.json"
+hash = "7f056326ceb01b9ba61cdc17713a05375c7586e77c78e844bd6b41372327f375"
+
+[[files]]
+file = "config/livingthings/peacock.json"
+hash = "f4a227226009017a5f3e9db0ffd2a60734ffcd92e1ba77b98597a1bed57cff18"
+
+[[files]]
+file = "config/livingthings/penguin.json"
+hash = "bc7f46e9e642a19ebca7e1b05f9b24eaa0642ef2d9460c36726b36226ffe692a"
+
+[[files]]
+file = "config/livingthings/raccoon.json"
+hash = "063279b32bd3be370d4c07b811b6c5ebda8e10455912cd1c01ef418acf6853e7"
+
+[[files]]
+file = "config/livingthings/seahorse.json"
+hash = "2b6d50b761524fdd184e2b8ee9d7b370d7c8cf6c35fccc22497ffcacdd6dda64"
+
+[[files]]
+file = "config/livingthings/shark.json"
+hash = "420e9cc2366d10cfc9b6e050ef34238cd75be2f230f6c64c197ad45ba5e383ca"
+
+[[files]]
+file = "config/livingthings/shroomie.json"
+hash = "a30d5d4dd78d6b93cdefa9f6afab36b2de3f20db76185222281ed6c1f27cfca7"
+
+[[files]]
+file = "config/livingthings/snail.json"
+hash = "ca186fe123978dc7b2992705cb9c19f5e75e53e976bb9837af47b216f7360b43"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "1d971fa15f092eba0e26164ebbe2a9067492f412ea61ed5d194b45cb54c43011"
 

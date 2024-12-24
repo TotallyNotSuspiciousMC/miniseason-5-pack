@@ -1,0 +1,49 @@
+{
+	"health": 10.0,
+	"movementSpeed": 0.25,
+	"flyingSpeed": 0.5,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 22,
+			"minGroupSize": 3,
+			"maxGroupSize": 6,
+			"biomes": [
+				"minecraft:forest",
+				"minecraft:birch_forest",
+				"minecraft:old_growth_birch_forest",
+				"minecraft:dark_forest",
+				"minecraft:flower_forest",
+				"minecraft:wooded_badlands",
+				"minecraft:taiga",
+				"minecraft:old_growth_pine_taiga",
+				"minecraft:old_growth_spruce_taiga",
+				"minecraft:cherry_grove",
+				"biomesoplenty:aspen_glade",
+				"biomesoplenty:jacaranda_glade",
+				"biomesoplenty:mediterranean_forest",
+				"biomesoplenty:mystic_grove",
+				"biomesoplenty:orchard",
+				"biomesoplenty:pumpkin_patch",
+				"biomesoplenty:redwood_forest",
+				"biomesoplenty:seasonal_forest",
+				"biomesoplenty:woodland",
+				"biomesoplenty:bog",
+				"biomesoplenty:coniferous_forest",
+				"biomesoplenty:dead_forest",
+				"biomesoplenty:field",
+				"biomesoplenty:fir_clearing",
+				"biomesoplenty:hot_springs",
+				"biomesoplenty:maple_woods",
+				"biomesoplenty:old_growth_dead_forest",
+				"biomesoplenty:ominous_woods",
+				"biomesoplenty:tundra"
+			]
+		}
+	],
+	"colorWeights": {
+		"colorWhiteWeight": 33,
+		"colorBrownWeight": 33,
+		"colorBlackWeight": 33
+	}
+}

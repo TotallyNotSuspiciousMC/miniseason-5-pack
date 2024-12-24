@@ -1,0 +1,50 @@
+{
+	"health": 4.0,
+	"movementSpeed": 0.1,
+	"maxSpawnedInChunk": 6,
+	"spawnBiomes": [
+		{
+			"weight": 12,
+			"minGroupSize": 3,
+			"maxGroupSize": 5,
+			"biomes": [
+				"minecraft:plains",
+				"minecraft:sunflower_plains",
+				"minecraft:swamp",
+				"minecraft:forest",
+				"minecraft:birch_forest",
+				"minecraft:flower_forest",
+				"minecraft:river",
+				"minecraft:cherry_grove",
+				"biomesoplenty:aspen_glade",
+				"biomesoplenty:jacaranda_glade",
+				"biomesoplenty:mediterranean_forest",
+				"biomesoplenty:mystic_grove",
+				"biomesoplenty:orchard",
+				"biomesoplenty:pumpkin_patch",
+				"biomesoplenty:redwood_forest",
+				"biomesoplenty:seasonal_forest",
+				"biomesoplenty:woodland",
+				"biomesoplenty:grassland",
+				"biomesoplenty:highland",
+				"biomesoplenty:lavender_field",
+				"biomesoplenty:lush_savanna",
+				"biomesoplenty:orchard",
+				"biomesoplenty:overgrown_greens",
+				"biomesoplenty:pasture",
+				"biomesoplenty:prairie",
+				"biomesoplenty:rocky_shrubland",
+				"biomesoplenty:shrubland",
+				"biomesoplenty:tundra"
+			]
+		},
+		{
+			"weight": 10,
+			"minGroupSize": 4,
+			"maxGroupSize": 6,
+			"biomes": [
+				"minecraft:mushroom_fields"
+			]
+		}
+	]
+}
