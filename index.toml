@@ -178,6 +178,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/clutter.pw.toml"
+hash = "1580c4dfa8892b1e80eb8ea5d4ccc80078de502b5412207451654d1651229ab3"
+metafile = true
+
+[[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "64ceb9fd4d0386fd91c8fe78c48ee69098f94a9cce18135e5491d104314448c9"
 metafile = true

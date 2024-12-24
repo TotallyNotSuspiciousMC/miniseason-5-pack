@@ -2,20 +2,7 @@
 	"health": 4.0,
 	"movementSpeed": 0.2,
 	"maxSpawnedInChunk": 6,
-	"spawnBiomes": [
-		{
-			"weight": 19,
-			"minGroupSize": 4,
-			"maxGroupSize": 7,
-			"biomes": [
-				"minecraft:warm_ocean",
-				"minecraft:lukewarm_ocean",
-				"minecraft:deep_lukewarm_ocean",
-				"minecraft:ocean",
-				"minecraft:deep_ocean"
-			]
-		}
-	],
+	"spawnBiomes": [],
 	"colorWeights": {
 		"colorRedWeight": 20,
 		"colorBlueWeight": 20,

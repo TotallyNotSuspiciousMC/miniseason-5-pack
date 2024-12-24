@@ -1,0 +1,13 @@
+name = "Clutter"
+filename = "clutter-1.21.1-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZAmykow/versions/GLEHGiMF/clutter-1.21.1-0.6.1.jar"
+hash-format = "sha512"
+hash = "1d9454070ac4df1be851fa89bdc45dfa1daab820f14d0d9601b55134f24acbac403985a2a03b625f9890c29c207d524560cbde714a267120d478454cbe0893a6"
+
+[update]
+[update.modrinth]
+mod-id = "KZAmykow"
+version = "GLEHGiMF"
