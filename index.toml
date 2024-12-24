@@ -99,6 +99,11 @@ hash = "9110c170f77eeb535cac15a6f3199cb2e0721e90cf51126dec2c7659ebe9db60"
 metafile = true
 
 [[files]]
+file = "mods/continents.pw.toml"
+hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "a520ac2a2b0a90c1c5f41f4aaffe96320ce4e4fb56a9f821e8a010a2088b2762"
 metafile = true
