@@ -424,6 +424,11 @@ hash = "f504bc95aa92603331973f49091667244b7cf1a1bcc2ff9f58bcb5e56935bd1b"
 metafile = true
 
 [[files]]
+file = "mods/winterly.pw.toml"
+hash = "a9a347772bda808174e443775daac61f7e6e26f275e766e079619fe330404203"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
 hash = "eeabc6404f66676e11bbf72524a79a1c325446820675f072708a61e478170973"
 metafile = true
@@ -445,11 +450,19 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "babdef3ab5413d6c9a113205288f7106e95813eabce4308397dcdfba4e9ac8b8"
+hash = "53aa87db8a01120fb06746c9fbc08be5ccae750cc5a206b7e20ad36131048e5f"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/thermoo/tags/armor_material/resistant_to_cold.json"
+hash = "555604450517ccee9891c834ee98405cb4097331e4205bca1198cef789c5be32"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/thermoo/tags/armor_material/resistant_to_heat.json"
+hash = "dbe9340b221979acbbbc611d171ec004063b1758d7ff5db0ca883040dd471f3d"
 
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/thermoo/tags/armor_material/very_resistant_to_heat.json"
-hash = "216b3a35462797716a1801534b940e159e06d59e17606669fe4fe792f12408d4"
+hash = "66fb2b38e85a9462f2be9a3edb1f88fd1a337ff41a1a400964678fc2923331dd"
 
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/pack.mcmeta"

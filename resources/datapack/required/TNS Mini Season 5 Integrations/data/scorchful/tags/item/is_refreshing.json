@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "pineapple_delight:pineapple",
+        "pineapple_delight:pineapple_side",
+        "farmersdelight:glow_berry_custard",
+        "farmersdelight:fruit_salad",
+        "oceansdelight:tentacles",
+        "oceansdelight:cut_tentacles",
+        "oceansdelight:tentacle_on_a_stick",
+        "oceansdelight:guardian",
+        "oceansdelight:guardian_tail",
+        "oceansdelight:elder_guardian_slab",
+        "oceansdelight:elder_guardian_slice",
+        "oceansdelight:elder_guardian_roll",
+        "oceansdelight:cabbage_wrapped_elder_guardian",
+        "oceansdelight:fugu_slice",
+        "oceansdelight:fugu_roll",
+        "oceansdelight:stuffed_cod",
+        "oceansdelight:seagrass_salad"
+    ]
+}

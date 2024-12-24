@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "seasonsgreetings:warm_milk",
+        "seasonsgreetings:hot_cocoa",
+        "seasonsgreetings:hot_cocoa_bucket",
+        "seasonsgreetings:eggnog_bucket",
+        "seasonsgreetings:eggnog",
+        "pineapple_delight:pineapple_juice",
+        "ubesdelight:milk_tea_ube",
+        "ubesdelight:halo_halo",
+        "ubesdelight:milk_tea_ube_feast",
+        "ubesdelight:halo_halo_feast"
+    ]
+}
