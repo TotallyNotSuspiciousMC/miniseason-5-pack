@@ -329,6 +329,11 @@ hash = "ac5465e986fcc9103e6b636a63a345f6592de64e7f85bb70729deed4354a87b2"
 metafile = true
 
 [[files]]
+file = "mods/seasons-greetings.pw.toml"
+hash = "3e47a1803d895be64ff461f9f7849063500bb95ac8a4e3fb2bf807a94aed424a"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "4739fd0f979dd5fefecc5c47a07ef61ca78d1bdf525cd4e544e1a331ede3ca61"
 metafile = true
