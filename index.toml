@@ -179,6 +179,11 @@ hash = "a104f2f6044d43bbc5a5badc6f589b2f6f5a1b9c9e47e00dfbad5061aa3b51f4"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "df3559d7b38e3dd9003e5f4bdbede4a2636ad8a7a5e3adfcd021c8acb4ebafc8"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "b1f9f3a6869d30ebcf8ad9d8f6ea52c49db1d98153434f435c832c36d9ceca90"
 metafile = true
