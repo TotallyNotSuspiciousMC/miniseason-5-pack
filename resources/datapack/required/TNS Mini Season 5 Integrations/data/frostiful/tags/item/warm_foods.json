@@ -1,6 +1,28 @@
 {
     "replace": false,
     "values": [
-        
+        "seasonsgreetings:warm_milk",
+        "seasonsgreetings:hot_cocoa",
+        "seasonsgreetings:hot_cocoa_bucket",
+        "seasonsgreetings:eggnog_bucket",
+        "seasonsgreetings:eggnog",
+        "mynethersdelight:bullet_pepper",
+        "mynethersdelight:fried_hoglin_chop",
+        "mynethersdelight:plate_of_stuffed_hoglin",
+        "mynethersdelight:plate_of_stuffed_hoglin_snout",
+        "mynethersdelight:plate_of_stuffed_hoglin_ham",
+        "mynethersdelight:deviled_egg",
+        "mynethersdelight:spicy_noodle_soup",
+        "mynethersdelight:spicy_cotton",
+        "mynethersdelight:spicy_skewer",
+        "mynethersdelight:chilidog",
+        "mynethersdelight:spicy_hoglin_stew",
+        "mynethersdelight:hot_wings",
+        "mynethersdelight:hot_wings_bucket",
+        "mynethersdelight:spicy_curry",
+        "mynethersdelight:burnt_roll",
+        "mynethersdelight:magma_cake_slice",
+        "mynethersdelight:rock_soup",
+        "mynethersdelight:strider_egg"
     ]
 }
