@@ -14,7 +14,7 @@ hash = "e905e42dccaa13eeeadacc05b2e146ab19a10f326610476b1d96291d5f2bc77b"
 
 [[files]]
 file = "config/livingthings/crab.json"
-hash = "c3be0e5b16282b6d747e668b8b6d6ceca590db2b8308764c0add55ea1a5dc714"
+hash = "d4722adb887dfc0f809c1214dc1ce182991f1058c4b93525db63a93cf8f34494"
 
 [[files]]
 file = "config/livingthings/elephant.json"
@@ -42,7 +42,7 @@ hash = "b28c313f2632fc458649dfc61d288744f7e07e2ea1f1c22efc9d7cc8c2a505f7"
 
 [[files]]
 file = "config/livingthings/mantaray.json"
-hash = "78063033b576ca9ef7205618f30c5b04952a06e98fe5abea02890a5fa4674aba"
+hash = "789bd351d17b43391ebc0edf8d67f06533e1100280c59c7a89ba2f20b02ae09f"
 
 [[files]]
 file = "config/livingthings/monkey.json"
@@ -66,7 +66,7 @@ hash = "f4a227226009017a5f3e9db0ffd2a60734ffcd92e1ba77b98597a1bed57cff18"
 
 [[files]]
 file = "config/livingthings/penguin.json"
-hash = "bc7f46e9e642a19ebca7e1b05f9b24eaa0642ef2d9460c36726b36226ffe692a"
+hash = "524f8b56fdd5ccb7fa417743249602ddadcecc5345e213cd961ee4bfbb51388a"
 
 [[files]]
 file = "config/livingthings/raccoon.json"
@@ -74,7 +74,7 @@ hash = "063279b32bd3be370d4c07b811b6c5ebda8e10455912cd1c01ef418acf6853e7"
 
 [[files]]
 file = "config/livingthings/seahorse.json"
-hash = "2b6d50b761524fdd184e2b8ee9d7b370d7c8cf6c35fccc22497ffcacdd6dda64"
+hash = "c13781414136c2e5514f3d387737018e448386ebef2d3992a39b9011598672a1"
 
 [[files]]
 file = "config/livingthings/shark.json"
