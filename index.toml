@@ -434,6 +434,10 @@ hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "babdef3ab5413d6c9a113205288f7106e95813eabce4308397dcdfba4e9ac8b8"
+
+[[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/thermoo/tags/armor_material/very_resistant_to_heat.json"
 hash = "216b3a35462797716a1801534b940e159e06d59e17606669fe4fe792f12408d4"
 
