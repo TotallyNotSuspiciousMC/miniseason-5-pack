@@ -44,6 +44,11 @@ hash = "0dc6b099b0bdf70ce41e2ed30e70d6b5cba93d127d6b3f9e455566c4c1b65ff2"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "52c60c8751264623716f0df299574c3fb55141718c07419326a7a13c5b18a9d5"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
 metafile = true
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
 hash = "64ceb9fd4d0386fd91c8fe78c48ee69098f94a9cce18135e5491d104314448c9"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "9110c170f77eeb535cac15a6f3199cb2e0721e90cf51126dec2c7659ebe9db60"
 metafile = true
 
 [[files]]
@@ -181,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "df3559d7b38e3dd9003e5f4bdbede4a2636ad8a7a5e3adfcd021c8acb4ebafc8"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.pw.toml"
+hash = "b166ae6b26ee751720ab8576ade16897bb41b74feac5f54342a5a014a91eff4b"
 metafile = true
 
 [[files]]
@@ -391,11 +406,6 @@ metafile = true
 [[files]]
 file = "mods/ubes-delight.pw.toml"
 hash = "53cf25a46035c6d48a7088da7b7f8f25a8be55fb2fa8846b55b0e62af9c497ee"
-metafile = true
-
-[[files]]
-file = "mods/vics-point-blank.pw.toml"
-hash = "d726b409ced8649261cf8e57b0c7760f2878a32ee8d9042ac278f0ab319ba38d"
 metafile = true
 
 [[files]]
