@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "friendsandfoes:wildfire"
+        "friendsandfoes:wildfire",
+        "aether:phoenix"
     ]
 }
