@@ -5,6 +5,10 @@ file = "config/fabric_loader_dependencies.json"
 hash = "80a100ef34fffa77d589f85107bc40e4059eb292ba4a4df30739827d98832ebc"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "1d971fa15f092eba0e26164ebbe2a9067492f412ea61ed5d194b45cb54c43011"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "bd5d617d5a7517e54f375299d0a81179d0be35c83f832564be314da581024bce"
 metafile = true
@@ -330,6 +334,11 @@ hash = "18e76b47a7aee2d315075514a48802de4b2dc144fdecd06f98abe50442116104"
 metafile = true
 
 [[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -413,3 +422,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/thermoo/tags/armor_material/very_resistant_to_heat.json"
+hash = "216b3a35462797716a1801534b940e159e06d59e17606669fe4fe792f12408d4"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/pack.mcmeta"
+hash = "cab06693704f22d6d41848b768a3c70a379e91876342c85e261d599a7ba54e5b"
