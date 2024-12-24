@@ -1,12 +1,12 @@
-name = "Miniseason5"
+name = "TNS Miniseason 5"
 author = "TheDeathlyCow"
-version = "1.0.0-SNAPSHOT"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6861a9444a5aff38b8a19fc6dc2013e8392c980bb5227dbdb6c60076d8b4bb49"
+hash = "1cd5dec280a966fe409d63a734660cff6dc97c490479569c401bb4c5fa84674f"
 
 [versions]
 fabric = "0.16.9"

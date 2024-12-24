@@ -458,6 +458,26 @@ file = "options.txt"
 hash = "53aa87db8a01120fb06746c9fbc08be5ccae750cc5a206b7e20ad36131048e5f"
 
 [[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/frostiful/tags/item/warm_foods.json"
+hash = "407099e963d7c436aeb4c0807e35184db6fa43bb20bb40b9c51d3202ec25d36d"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_cooling_food.json"
+hash = "df4c476c8f3c2c0a2b9cb2a6218a4b913afa2501212e2a4232bbf282310ee360"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_hydrating.json"
+hash = "8ef6320ce423955d9823f8e14c3422e8045bc7a880e4c9a96dd5d9a384c04262"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_refreshing.json"
+hash = "a4acf290a8e59b1993b50dd8fcafe341a1244ccc8eb86938664e46783d438179"
+
+[[files]]
+file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_sustaining.json"
+hash = "d3e829d98a55c4ea7964d3c2b6ccd3aa126c88bb175d5ee207a3de8333a60378"
+
+[[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/thermoo/tags/armor_material/resistant_to_cold.json"
 hash = "555604450517ccee9891c834ee98405cb4097331e4205bca1198cef789c5be32"
 
@@ -472,3 +492,7 @@ hash = "66fb2b38e85a9462f2be9a3edb1f88fd1a337ff41a1a400964678fc2923331dd"
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/pack.mcmeta"
 hash = "cab06693704f22d6d41848b768a3c70a379e91876342c85e261d599a7ba54e5b"
+
+[[files]]
+file = "servers.dat"
+hash = "b88bcd96a4a8b1499c413949b0a6b39a4483480eb3b545f11ed60db3b3327e71"
