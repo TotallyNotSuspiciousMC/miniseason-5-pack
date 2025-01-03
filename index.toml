@@ -108,6 +108,11 @@ hash = "df8f558f0b2df60278800bf9197e3bfb7920a40e44351362ef97b4f3c33b90b3"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "2adf518c92809d9a8cb8c1bbb8f40f8d631a5702ccbcc4ee617a9365dcf48a4e"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "7dd4852f08506c9bdf165acc40c030d618cf5398f01057fd2328953838c03279"
 metafile = true
@@ -380,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight-refabricated.pw.toml"
 hash = "193c03548df0d504fd9884ac47a3492bdf3561d49ad80717a0eba926e38ae8db"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "7bd3f1725b6779f6c9b2896f01b9d8e2c2c110a07abc7e6750fe3d783203659f"
 metafile = true
 
 [[files]]
