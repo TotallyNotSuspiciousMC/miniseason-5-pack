@@ -128,6 +128,11 @@ hash = "0dc6b099b0bdf70ce41e2ed30e70d6b5cba93d127d6b3f9e455566c4c1b65ff2"
 metafile = true
 
 [[files]]
+file = "mods/aviator-dreams.pw.toml"
+hash = "45d4eb215e609e3c3b83156a5a1d2c6d45385eea91b14c9d010a3a1bf45a18be"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "52c60c8751264623716f0df299574c3fb55141718c07419326a7a13c5b18a9d5"
 metafile = true
@@ -484,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "dfcb812b7a748fa7af10509a5fbe3390929c04bcfb877b988d766e78b03bd233"
+hash = "c300d1e7fb83daec3cd5e0644fb547fa6dcb40fc2a12ade725342454a0ce38db"
 metafile = true
 
 [[files]]
