@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewery.pw.toml"
-hash = "3a16ddcee63aaece1c7369a82e7235dc44cccbf14c16758db949866abdcf8db6"
+hash = "0f8a8fd4e5b2d08fadb2ba85ea8a8a33a979b8af2df5c376d28333e82c63d9c3"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dragon-eggs.pw.toml"
-hash = "f29da2cd01bd7b06526bc009875267f0b1e9a64320be2ad816f0792d7e54f97a"
+hash = "22d6b89673db890244a323b8a449d468806b3097ddc28e750e12cdbff8afe2fb"
 metafile = true
 
 [[files]]
