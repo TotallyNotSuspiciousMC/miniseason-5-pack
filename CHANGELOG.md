@@ -10,6 +10,7 @@
 * Added [Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric/version/7.7.14+1.21.1-fabric)
 * Added [Brewery](https://modrinth.com/mod/brewery) (optional, server only mod)
 * Added [Patchouli](https://modrinth.com/mod/patchouli/version/1.21-87-fabric)
+* Added [Immersive Snow](https://modrinth.com/mod/immersive-snow/version/pBj3jxVD) (optional, server only mod)
 * Updated armor material tags to add heat resistance to various Mythic Metals armours
 
 ---
