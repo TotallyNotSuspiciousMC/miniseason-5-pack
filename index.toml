@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective.pw.toml"
-hash = "7364a7156c2fce6d392b7144f06771553ed2322a6a988b318d6a9876b167f7e9"
+hash = "9fb7726388c76a4ad51efcf100d6e945771422ed35578690fa40d5548015ae60"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Effective"
-filename = "effective-2.4.4-1.21.1.jar"
+filename = "effective-2.4.5-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pcPXJeZi/versions/2hR1hAR6/effective-2.4.4-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/pcPXJeZi/versions/KjN1Hg6u/effective-2.4.5-1.21.1.jar"
 hash-format = "sha512"
-hash = "4c1bece80436b2ec69c2e3e6af015549ed2b464bb2d96c833e7ccbb20e7e5b457e16972de57386087131914261b72a1f5e7823b533d7683652ee2159c7ca37d0"
+hash = "fbf04b399dcc1196899dcbc80e4e0a8faea0960dd23dbcbb1935be8c624ff9c768bb365a693125e07bb63e1cd1d67950dc1ffbd3fd946c87376346b47318be23"
 
 [update]
 [update.modrinth]
 mod-id = "pcPXJeZi"
-version = "2hR1hAR6"
+version = "KjN1Hg6u"
