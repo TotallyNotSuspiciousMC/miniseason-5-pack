@@ -1,4 +1,4 @@
-# Version 1.1.0
+# Version 1.1.1
 
 * Updated Thermoo to [4.2.5](https://modrinth.com/mod/thermoo/version/4.2.5)
 * Added [Tom's Simple Storage](https://modrinth.com/mod/toms-storage/version/1.21-2.0.12-fabric)
@@ -9,6 +9,7 @@
 * Added [Midnight Lib](https://modrinth.com/mod/midnightlib/version/1.6.3-fabric)
 * Added [Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric/version/7.7.14+1.21.1-fabric)
 * Added [Brewery](https://modrinth.com/mod/brewery) (optional, server only mod)
+* Added [Patchouli](https://modrinth.com/mod/patchouli/version/1.21-87-fabric)
 * Updated armor material tags to add heat resistance to various Mythic Metals armours
 
 ---
