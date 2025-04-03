@@ -65,11 +65,6 @@ hash = "e11ab5524006ae3a93b93547d164ce99722ddd34aba9b11dd8973ab4b665ff1a"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "44b602d6d9664958e0fce3fdabfd47b7def3a2fd5586b5e2417f7a5f9a2fc276"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "b693d00c26799c28260f95e37e604f4866a33b5ede03a9c9b910d8679bb4d580"
 metafile = true
@@ -200,6 +195,11 @@ hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "89113d0e4c7e47ffe340d550e78432cd8b2185672c862ced2e13f47e4984ebcd"
 metafile = true
@@ -212,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "a0a4120479b3a00265797ba4ab4b351e7ea6730f1a0394d069da0d92165a3bd9"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "1950cc9e81e89586672663fb9b2c64b5770b3c6bedb2d4893165b1b7063899f2"
 metafile = true
 
 [[files]]
