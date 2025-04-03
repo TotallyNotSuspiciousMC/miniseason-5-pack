@@ -1,11 +1,6 @@
 {
     "replace": false,
     "values": [
-        "seasonsgreetings:warm_milk",
-        "seasonsgreetings:hot_cocoa",
-        "seasonsgreetings:hot_cocoa_bucket",
-        "seasonsgreetings:eggnog_bucket",
-        "seasonsgreetings:eggnog",
         "mynethersdelight:bullet_pepper",
         "mynethersdelight:fried_hoglin_chop",
         "mynethersdelight:plate_of_stuffed_hoglin",

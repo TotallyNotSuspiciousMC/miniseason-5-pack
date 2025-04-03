@@ -120,6 +120,11 @@ hash = "992fd54a7f8c0b61a0dc59458cb09b965eb5f3d7cf06a256a81970424a70332a"
 metafile = true
 
 [[files]]
+file = "mods/default-components.pw.toml"
+hash = "20795f79d092b72b73b68594eff4fc8ad49dfcb9a67dcb9506304f03c585eaa7"
+metafile = true
+
+[[files]]
 file = "mods/duckling.pw.toml"
 hash = "d2d85facd64ed37a2c487045016576c07570990a00ed590fb77af4919aed8416"
 metafile = true
