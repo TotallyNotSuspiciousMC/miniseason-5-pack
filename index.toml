@@ -145,6 +145,11 @@ hash = "c72a82bd1e70f8be0569ac470d2447c01af4e34d5101f25d1786724e5afb1d8f"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "7a488f0a685a3c77e90bb8ab013ffa9d92cc7a895925d8f8629d355ab6b8c07c"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "161123eca0678a132b41010d1c1bbefae031c54f331f4681d09466c93004431a"
 metafile = true
@@ -240,11 +245,6 @@ hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
 metafile = true
@@ -262,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-holidays.pw.toml"
 hash = "5218f11b16af605c43edd2a484c3aa68e3fa2f7a826f4f22861c97999bc8b51e"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "fce8fb8b380fe16ea1358bba640ed5544cfebaa97d313bfb4f6604f195dc82a9"
 metafile = true
 
 [[files]]
