@@ -80,6 +80,11 @@ hash = "96d495b0376a6676ddc80e709823c7352fcad93804e07a446497dc424f655276"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "f1cd14f50ca02adbc84ad0b78a540f4486fd0e38ed601bb27575c94811e48b87"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
 metafile = true
@@ -500,7 +505,7 @@ hash = "53aa87db8a01120fb06746c9fbc08be5ccae750cc5a206b7e20ad36131048e5f"
 
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/frostiful/tags/item/warm_foods.json"
-hash = "407099e963d7c436aeb4c0807e35184db6fa43bb20bb40b9c51d3202ec25d36d"
+hash = "c54f7976c53c7d2a9b00dc2330fd96961234ed19ab440d27f5819f227b40d0f3"
 
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_cooling_food.json"
@@ -508,7 +513,7 @@ hash = "df4c476c8f3c2c0a2b9cb2a6218a4b913afa2501212e2a4232bbf282310ee360"
 
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_hydrating.json"
-hash = "8ef6320ce423955d9823f8e14c3422e8045bc7a880e4c9a96dd5d9a384c04262"
+hash = "8d996f968aae89a7e3830ee23af21d0d84372c9cbc2d16eabaa69ee939abe4d2"
 
 [[files]]
 file = "resources/datapack/required/TNS Mini Season 5 Integrations/data/scorchful/tags/item/is_refreshing.json"

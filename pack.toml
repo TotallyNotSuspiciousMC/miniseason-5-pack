@@ -1,15 +1,15 @@
-name = "TNS Miniseason 5"
+name = "Something For Me"
 author = "TheDeathlyCow"
-version = "1.1.1"
+version = "2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "978b07a5380df614474ff3233c7784f6ae6a566dcca1227e4f978bd6a259bb5a"
+hash = "29dc7b2e8237fb4d94e85746377f72b094ee776a3d072b8a75f763dabd4f8668"
 
 [versions]
-fabric = "0.16.9"
+fabric = "0.16.12"
 minecraft = "1.21.1"
 
 [options]
